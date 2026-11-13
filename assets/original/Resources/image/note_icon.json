@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "note_icon_card.png",
+	"frame": {"x":0,"y":0,"w":98,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":90},
+	"sourceSize": {"w":98,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "note_icon_rite_close.png",
+	"frame": {"x":98,"y":0,"w":97,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":96},
+	"sourceSize": {"w":97,"h":96},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "note_icon_rite_new.png",
+	"frame": {"x":0,"y":96,"w":109,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":117},
+	"sourceSize": {"w":109,"h":117},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "note_icon.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aa32e2e9087cc36240e19ce218250ebe:a3eaeb629244103f11b1c5d41bb52128:b12dde953f527c8a822e719005fbfbcd$"
+}
+}
